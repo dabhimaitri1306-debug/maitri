@@ -1,0 +1,17 @@
+# Maitri Dabhi Portfolio
+
+Civil Engineering Portfolio Website
+
+## Features
+
+- Dark futuristic theme
+- AutoCAD blueprint grid background
+- Structural truss animation
+- Responsive layout
+- GitHub Pages ready
+
+## Author
+
+Maitri Dabhi  
+Civil Engineering Student  
+Pandit Deendayal Energy University
